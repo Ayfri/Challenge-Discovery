@@ -1,3 +1,3 @@
 function passButter() {
-	return 'You pass butter.';
+	return 'The butter';
 }
