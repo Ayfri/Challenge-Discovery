@@ -1,0 +1,1 @@
+const mirror = word.reverse();
