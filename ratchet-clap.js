@@ -1,1 +1,1 @@
-const ratchetClap = sentence.join('👏') + '👏';
+const ratchetClap = words.join('👏') + '👏';
