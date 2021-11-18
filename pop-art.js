@@ -1,0 +1,2 @@
+popArtists.pop();
+popArtists.shift();
