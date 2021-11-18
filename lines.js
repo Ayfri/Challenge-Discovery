@@ -1,1 +1,1 @@
-const linesCount = poem.split('\n').length;
+const linesCount = poem.trim().split('\n').length;
