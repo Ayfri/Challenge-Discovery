@@ -1,0 +1,2 @@
+const escapeFromSequence = '\'"`';
+const escapeTheSequence = '\\';
