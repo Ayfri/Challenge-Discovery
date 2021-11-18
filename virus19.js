@@ -1,2 +1,2 @@
-Object.freeze(virus19);
+virus19 = Object.freeze(virus19);
 const vaccine = JSON.parse(JSON.stringify(antivirus));
