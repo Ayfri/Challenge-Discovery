@@ -1,1 +1,1 @@
-const beaconsLit = [easternmost, ...easternBeacons, centerBeacon, ...westernBeacons];
+const beaconsLit = [easternmost, ...easternBeacons, centerBeacon, ...westernBeacons, westernmost];
