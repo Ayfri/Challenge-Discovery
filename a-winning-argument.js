@@ -1,5 +1,5 @@
 function battleCry(arg) {
-	console.log(arg);
+	console.log(arg.toUpperCase());
 }
 
 function secretOrders(arg) {
