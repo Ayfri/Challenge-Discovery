@@ -1,3 +1,3 @@
 const footSoldiers = [...swordMen, ...archers, 'Grim the Terrible'];
-const horseMen = [...captains, ...generals, 'The Skull Knight'];
-const armyOfTheDead = [...footSoldiers, ...horseMen, 'The King of the Dead'];
+const horseMen = ['The Skull Knight', ...captains, ...generals];
+const armyOfTheDead = [...footSoldiers, 'The King of the Dead', ...horseMen];
