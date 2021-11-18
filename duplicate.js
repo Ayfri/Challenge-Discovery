@@ -1,1 +1,1 @@
-const duplicate = `${sequence}, ${sequence} !`
+const duplicate = `${sentence}, ${sentence} !`
