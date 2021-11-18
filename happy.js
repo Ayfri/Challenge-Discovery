@@ -1,3 +1,1 @@
-function happy(sentence) {
-	return sentence.toLowerCase().includes('happy') && sentence.endsWith('?');
-}
+const happy = (sentence) => sentence.toLowerCase().includes('happy') && sentence.endsWith('?');
