@@ -1,3 +1,3 @@
 function happy(sentence) {
-	return sentence.includes('happy') && sentence.endsWith('?');
+	return sentence.toLowerCase().includes('happy') && sentence.endsWith('?');
 }
