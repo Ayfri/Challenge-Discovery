@@ -3,5 +3,5 @@ function duos(first, second) {
 }
 
 function duosWork(first, second, three) {
-	console.log(`${first} and ${second} protect ${three} !`);
+	console.log(`${first} and ${second} ${three} !`);
 }
