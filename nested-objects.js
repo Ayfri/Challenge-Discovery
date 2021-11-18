@@ -3,6 +3,6 @@ const address = {
 	postcode: 10999,
 	street: {
 		name: 'Münsterstrasse',
-		number: '10',
+		number: 10,
 	},
 };
