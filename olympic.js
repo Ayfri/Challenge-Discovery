@@ -9,6 +9,6 @@ switch (athletes.indexOf('Pedro')) {
 		console.log('🥉');
 		break;
 	default:
-		console.log(`😞 Pedro is #${athletes.indexOf('Pedro')}`);
+		console.log(`😞 Pedro is #${athletes.indexOf('Pedro') + 1}`);
 		break;
 }
