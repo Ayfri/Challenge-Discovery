@@ -1,7 +1,7 @@
 const button = document.querySelector('button');
 const eyeLeft = document.getElementById('eye-left');
 button.addEventListener('click', () => {
-	if (button.classList.contains('eye-closed')) {
+	if (eyeLeft.classList.contains('eye-closed')) {
 		button.textContent = 'Click to close the left eye';
 		eyeLeft.style.backgroundColor = 'red';
 	} else {
