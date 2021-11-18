@@ -1,0 +1,1 @@
+const duplicate = `${sequence}, ${sequence} !`
