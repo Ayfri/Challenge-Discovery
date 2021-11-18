@@ -5,3 +5,7 @@ function ask() {
 function reply() {
 	console.log('You pass butter.');
 }
+
+
+ask();
+reply();
