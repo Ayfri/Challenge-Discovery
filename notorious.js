@@ -1,2 +1,2 @@
-const biggie = Number.MAX_SAFE_INTEGER;
-const smalls = -Number.MAX_SAFE_INTEGER;
+const biggie = Number.MAX_INTEGER;
+const smalls = -Number.MAX_INTEGER;
